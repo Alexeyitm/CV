@@ -1,7 +1,11 @@
 .about__text {
-  margin: 30px 0 0;
+  margin: 20px 0 0;
   color: #050505;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.4;
+}
+
+.about__text:nth-child(2) {
+  margin-top: 40px;
 }

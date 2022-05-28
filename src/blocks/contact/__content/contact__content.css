@@ -3,6 +3,5 @@
   position: absolute;
   top: 0;
   right: 30vw;
-  cursor: default;
   transform: skewX(10deg) translate(50%);
 }

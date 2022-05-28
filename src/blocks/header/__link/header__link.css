@@ -1,6 +1,8 @@
 .header__link {
   cursor: pointer;
   transition: all .3s ease-in-out;
+  color: #FFFFFF;
+  text-decoration: none;
 }
 
 .header__link:hover {

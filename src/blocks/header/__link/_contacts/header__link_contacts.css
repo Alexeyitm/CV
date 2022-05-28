@@ -5,7 +5,7 @@
 
 .header__link_contacts:hover {
   cursor: default;
-  color: #000000;
+  opacity: 1;
 }
 
 .header__link_contacts::before {

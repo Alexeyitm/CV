@@ -1,0 +1,7 @@
+.block__logo {
+  width: 25vw;
+  height: 20vh;
+  background: url(../../../images/png/block-logo.png) no-repeat;
+  background-size: contain;
+  margin-left: auto;
+}

@@ -5,3 +5,9 @@
   background-color: #D9D9D9;
   transform: skewX(-10deg) translate(-40%);
 }
+
+@media screen and (max-width: 767px) {
+  .contact__block {
+    display: none;
+  }
+}

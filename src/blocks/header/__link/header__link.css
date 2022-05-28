@@ -1,9 +1,9 @@
 .header__link {
   cursor: pointer;
-  transition: all .5s ease-in-out;
+  transition: all .3s ease-in-out;
 }
 
 .header__link:hover {
   cursor: pointer;
-  color: #D9D9D9;
+  opacity: .5;
 }

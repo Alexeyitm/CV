@@ -13,5 +13,5 @@
   right: 0;
   bottom: 0;
   background: url(../../../../images/png/contact-gmail.png) no-repeat;
-  background-size: cover;
+  background-size: contain;
 }

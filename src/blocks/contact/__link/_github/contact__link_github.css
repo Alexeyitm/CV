@@ -1,0 +1,17 @@
+.contact__link_github {
+  position: relative;
+}
+
+.contact__link_github:after {
+  content: '';
+  width: 35px;
+  height: 35px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url(../../../../images/png/contact-github.png) no-repeat;
+  background-size: cover;
+}

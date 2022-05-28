@@ -1,0 +1,16 @@
+.contact__link {
+  display: block;
+  width: 60px;
+  height: 60px;
+  background-color: #C4C4C4;
+  box-shadow: 8px 4px 4px #C4C4C4;
+  border: 1px #BEBEBE solid;
+  cursor: pointer;
+  transition: all .2s linear;
+}
+
+.contact__link:hover {
+  top: 2px;
+  left: 2px;
+  box-shadow: 4px 2px 2px #C4C4C4;
+}

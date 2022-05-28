@@ -9,3 +9,17 @@
 @import url(../../blocks/header/__navbar/header__navbar.css);
 @import url(../../blocks/header/__links/header__links.css);
 @import url(../../blocks/header/__link/header__link.css);
+@import url(../../blocks/header/__link/_contacts/header__link_contacts.css);
+
+@import url(../../blocks/contact/contact.css);
+@import url(../../blocks/contact/__block/contact__block.css);
+@import url(../../blocks/contact/__content/contact__content.css);
+@import url(../../blocks/contact/__logo/contact__logo.css);
+@import url(../../blocks/contact/__text/contact__text.css);
+@import url(../../blocks/contact/__title/contact__title.css);
+@import url(../../blocks/contact/__subtitle/contact__subtitle.css);
+@import url(../../blocks/contact/__links/contact__links.css);
+@import url(../../blocks/contact/__link/contact__link.css);
+@import url(../../blocks/contact/__link/_telegram/contact__link_telegram.css);
+@import url(../../blocks/contact/__link/_gmail/contact__link_gmail.css);
+@import url(../../blocks/contact/__link/_github/contact__link_github.css);

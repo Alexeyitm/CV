@@ -1,0 +1,17 @@
+.contact__link_gmail {
+  position: relative;
+}
+
+.contact__link_gmail:after {
+  content: '';
+  width: 35px;
+  height: 35px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url(../../../../images/png/contact-gmail.png) no-repeat;
+  background-size: cover;
+}

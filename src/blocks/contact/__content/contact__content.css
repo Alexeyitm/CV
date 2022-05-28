@@ -1,0 +1,7 @@
+.contact__content {
+  margin-top: 50px;
+  position: absolute;
+  top: 0;
+  right: 30vw;
+  transform: skewX(10deg) translate(50%);
+}

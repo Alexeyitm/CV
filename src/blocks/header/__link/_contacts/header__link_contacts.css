@@ -1,0 +1,21 @@
+.header__link_contacts {
+  position: relative;
+  color: #000000;
+}
+
+.header__link_contacts:hover {
+  cursor: default;
+  color: #000000;
+}
+
+.header__link_contacts::before {
+  content: "";
+  width: 140%;
+  height: 200%;
+  border-radius: 20px;
+  background-color: #D9D9D9;
+  position: absolute;
+  left: -20%;
+  top: -50%;
+  z-index: -1;
+}

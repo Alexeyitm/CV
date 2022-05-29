@@ -40,3 +40,11 @@
 @import url(../../blocks/about/__title/about__title.css);
 @import url(../../blocks/about/__text/about__text.css);
 @import url(../../blocks/about/__conclusion/about__conclusion.css);
+@import url(../../blocks/about/__background/about__background.css);
+@import url(../../blocks/about/__info/about__info.css);
+@import url(../../blocks/about/__subtitle/about__subtitle.css);
+@import url(../../blocks/about/__experience/about__experience.css);
+
+/* Stack */
+@import url(../../blocks/stack/stack.css);
+@import url(../../blocks/stack/__content/stack__content.css);

@@ -1,0 +1,7 @@
+.about__info {
+  max-width: 40%;
+}
+
+.about__info:nth-last-child(1) {
+  margin: 30px auto 0;
+}

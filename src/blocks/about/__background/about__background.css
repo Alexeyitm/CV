@@ -1,0 +1,31 @@
+.about__background {
+  position: relative;
+  list-style-type: none;
+  margin: 160px 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.about__background:before {
+  content: '';
+  width: 170px;
+  height: 12px;
+  position: absolute;
+  top: -80px;
+  left: calc(50% - 85px);
+  background: url(../../../images/png/about-separator.png) no-repeat;
+  background-size: cover;
+}
+
+.about__background:after {
+  content: '';
+  width: 170px;
+  height: 12px;
+  position: absolute;
+  bottom: -80px;
+  left: calc(50% - 85px);
+  background: url(../../../images/png/about-separator.png) no-repeat;
+  background-size: cover;
+}

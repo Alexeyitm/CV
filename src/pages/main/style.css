@@ -53,3 +53,6 @@
 @import url(../../blocks/stack/__subtitle/stack__subtitle.css);
 @import url(../../blocks/stack/__list/stack__list.css);
 @import url(../../blocks/stack/__element/stack__element.css);
+@import url(../../blocks/stack/__figure/stack__figure.css);
+@import url(../../blocks/stack/__png/stack__png.css);
+@import url(../../blocks/stack/__figcaption/stack__figcaption.css);

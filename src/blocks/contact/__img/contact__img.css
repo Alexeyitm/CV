@@ -2,14 +2,15 @@
   width: 30vw;
   height: 30vw;
   position: absolute;
-  bottom: 15%;
+  bottom: 50%;
+  transform: translate(0, 50%);
   right: 5%;
   border-radius: 50%;
   object-fit: cover;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 767px) {
   .contact__img {
-    bottom: 30%;
+    display: none;
   }
 }

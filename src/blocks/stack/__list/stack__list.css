@@ -7,3 +7,7 @@
   grid-template-columns: repeat(auto-fit, 180px);
   justify-content: center;
 }
+
+.stack__list:nth-last-child(1) {
+  margin-bottom: 100px;
+}

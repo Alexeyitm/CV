@@ -1,7 +1,11 @@
-.stack__title {
-  width: 160px;
-  margin: 60px auto 0;
+.projects__title {
+  width: 260px;
   padding: 20px 30px;
+  position: absolute;
+  margin: 0;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%, -50%);
   font-weight: 700;
   font-size: 30px;
   line-height: 1.3;

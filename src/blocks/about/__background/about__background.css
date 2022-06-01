@@ -8,6 +8,13 @@
   justify-content: space-between;
 }
 
+@media screen and (max-width: 550px) {
+  .about__background {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
 .about__background:before {
   content: '';
   width: 170px;

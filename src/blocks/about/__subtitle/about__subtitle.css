@@ -5,3 +5,9 @@
   line-height: auto;
   letter-spacing: 5px;
 }
+
+@media screen and (max-width: 550px) {
+  .about__subtitle {
+    text-align: center;
+  }
+}

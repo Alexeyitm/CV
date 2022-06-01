@@ -5,3 +5,9 @@
   line-height: auto;
   letter-spacing: 3px;
 }
+
+@media screen and (max-width: 767px) {
+  .stack__subtitle {
+    text-align: center;
+  }
+}

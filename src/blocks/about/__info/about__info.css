@@ -2,6 +2,18 @@
   max-width: 40%;
 }
 
+@media screen and (max-width: 550px) {
+  .about__info {
+    max-width: 80%;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .about__info:nth-child(2) {
+    margin-top: 50px;
+  }
+}
+
 .about__info:nth-last-child(1) {
   margin: 50px auto 0;
 }

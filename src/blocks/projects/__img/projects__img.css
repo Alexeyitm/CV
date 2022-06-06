@@ -3,3 +3,9 @@
   min-height: 300px;
   object-fit: cover;
 }
+
+@media screen and (max-width: 767px) {
+  .projects__img {
+    min-height: 200px;
+  }
+}

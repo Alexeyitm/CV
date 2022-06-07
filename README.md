@@ -1,16 +1,15 @@
-### Hi there 👋
+# Mesto
 
-<!--
-**Alexeyitm/alexeyitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### О репозитории
 
-Here are some ideas to get you started:
+Проект CV - моя визитка.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ссылка на страницу**
+
+* [Ссылка на страницу в GitHub Pages](https://alexeyitm.github.io/CV/)
+
+**Стек проекта**
+
+* HTML
+* CSS
+* JS

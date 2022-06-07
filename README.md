@@ -1,2 +1,15 @@
-<h1 align="center">Hi there, I'm <a target="_blank">Alexey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# Mesto
+
+### О репозитории
+
+Проект CV - моя визитка.
+
+**Ссылка на страницу**
+
+* [Ссылка на страницу в GitHub Pages](https://alexeyitm.github.io/CV/)
+
+**Стек проекта**
+
+* HTML
+* CSS
+* JS

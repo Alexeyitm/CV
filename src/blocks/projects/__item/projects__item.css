@@ -1,3 +1,7 @@
 .projects__item {
-  
+  transition: all .5s linear;
+}
+
+.projects__item:hover {
+  opacity: .4;
 }

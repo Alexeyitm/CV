@@ -188,14 +188,30 @@
 
     <section class="projects" id="projects">
       <article class="projects__content">
-        <img class="projects__img" src="<%=require('../../images/jpg/project-img.jpg')%>" alt=Горы>
+        <img class="projects__img" src="<%=require('../../images/jpg/project-img.jpg')%>" alt="Горы">
         <h2 class="projects__title">Проекты</h2>
       </article>
       <ul class="projects__list">
-        <li class="projects__item"><a class="projects__mesto"></a></li>
-        <li class="projects__item"><a class="projects__shelter"></a></li>
-        <li class="projects__item"><a class="projects__russian-travel"></a></li>
-        <li class="projects__item"><a class="projects__how-to-learn"></a></li>
+        <li class="projects__item">
+          <a class="projects__link projects__link_mesto" href="https://github.com/Alexeyitm/mesto" target="_blank">
+            <img class="projects__project-img" src="<%=require('../../images/png/projects-mesto.png')%>" alt="Место">
+          </a>
+        </li>
+        <li class="projects__item">
+          <a class="projects__link projects__link_shelter" href="https://github.com/Alexeyitm/shelter" target="_blank">
+            <img class="projects__project-img" src="<%=require('../../images/png/projects-shelter.png')%>" alt="Шелтер">
+          </a>
+        </li>
+        <li class="projects__item">
+          <a class="projects__link projects__link_russian-travel" href="https://github.com/Alexeyitm/russian-travel" target="_blank">
+            <img class="projects__project-img" src="<%=require('../../images/png/projects-russiantravel.png')%>" alt="Путешествия по России">
+          </a>
+        </li>
+        <li class="projects__item">
+          <a class="projects__link projects__link_how-to-learn" href="https://github.com/Alexeyitm/how-to-learn" target="_blank">
+            <img class="projects__project-img" src="<%=require('../../images/png/projects-howtolearn.png')%>" alt="Научиться учиться">
+          </a>
+        </li>
       </ul>
     </section>
 

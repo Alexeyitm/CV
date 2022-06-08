@@ -1,11 +1,6 @@
 .projects__img {
+  margin: 0;
   width: 100%;
-  min-height: 300px;
+  height: 100%;
   object-fit: cover;
-}
-
-@media screen and (max-width: 767px) {
-  .projects__img {
-    min-height: 200px;
-  }
 }

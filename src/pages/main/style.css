@@ -63,3 +63,6 @@
 @import url(../../blocks/projects/__img/projects__img.css);
 @import url(../../blocks/projects/__title/projects__title.css);
 @import url(../../blocks/projects/__list/projects__list.css);
+@import url(../../blocks/projects/__item/projects__item.css);
+@import url(../../blocks/projects/__link/projects__link.css);
+@import url(../../blocks/projects/__project-img/projects__project-img.css);

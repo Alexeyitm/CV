@@ -8,6 +8,12 @@
 
 @media screen and (max-width: 767px) {
   .projects__list {
-    grid-template-columns: repeat(auto-fit, calc(100%/2));
+    grid-template-columns: repeat(auto-fit, 50%);
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .projects__list {
+    grid-template-columns: repeat(auto-fit, 100%);
   }
 }

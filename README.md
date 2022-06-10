@@ -29,7 +29,7 @@
 
 ## Посмотреть страницу и макет:
 
-* [Место на Github Pages](https://alexeyitm.github.io/CV/)
+* [CV на Github Pages](https://alexeyitm.github.io/CV/)
 
 ## Что можно улучшить:
 

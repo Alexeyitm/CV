@@ -50,3 +50,13 @@
 .projects__link{display:block;height:100%;width:100%}
 .projects__project-img{height:100%;width:100%}
 
+.footer__container{align-items:center;display:flex;flex-direction:column;margin:30px auto;max-width:320px}
+.footer__button{background-color:transparent;border:0;margin:0;max-width:80px;padding:0}
+.footer__link{color:#fff;font-size:15px;font-weight:700;letter-spacing:3px;text-decoration:none}
+.footer__back-icon{background-image:url(a48bfb9a5e847e4090a0.png);height:15px;margin:0 auto;width:15px}
+.footer__icons{display:flex;justify-content:space-between;list-style-type:none;margin:20px 0 0;padding:0;width:100px}
+.footer__icon{display:block;height:30px;width:30px}
+.footer__icon_linkedin{background:url(2a1d91c81654faa4337d.png) no-repeat}
+.footer__icon_gmail{background:url(3d13efdc7bde60738f2d.png) no-repeat}
+.footer__author{color:#fff;font-size:18px;margin:30px 0 0}
+
